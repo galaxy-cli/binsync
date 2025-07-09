@@ -7,8 +7,8 @@
 #                       |___/            
 # Author: galaxy-cli
 # Project: https://github.com/galaxy-cli/binsync
+# binsync -  binsync is a Bash script that scans and updates my ~/scripts and ~/.local/bin directories
 
-src_dir="$HOME/scripts"
 dst_dir="$HOME/.local/bin"
 
 # Recursively find all files in $src_dir
