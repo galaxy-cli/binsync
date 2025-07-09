@@ -1,4 +1,12 @@
 #!/bin/bash
+#     _     _                            
+#    | |__ (_)_ __  ___ _   _ _ __   ___ 
+#    | '_ \| | '_ \/ __| | | | '_ \ / __|
+#    | |_) | | | | \__ \ |_| | | | | (__ 
+#    |_.__/|_|_| |_|___/\__, |_| |_|\___|
+#                       |___/            
+# Author: galaxy-cli
+# Project: https://github.com/galaxy-cli/binsync
 
 src_dir="$HOME/scripts"
 dst_dir="$HOME/.local/bin"
