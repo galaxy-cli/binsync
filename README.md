@@ -106,7 +106,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 **galaxy-cli**
 
 GitHub: [https://github.com/galaxy-cli/binsync](https://github.com/galaxy-cli/binsync)
-
----
-
-Thank you for checking out `binsync`!
