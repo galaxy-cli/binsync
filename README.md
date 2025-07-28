@@ -97,18 +97,15 @@ This script helps automate the tedious task of manually copying updated scripts 
 
 ## License
 
-[LICENSE](LICENSE)
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
-## Author & More Info
+## Author & Contact
 
-Author: galaxy-cli  
-Project: [https://github.com/galaxy-cli/binsync](https://github.com/galaxy-cli/binsync)
+**galaxy-cli**
 
----
-
-Feel free to open issues or pull requests to suggest improvements or fixes!
+GitHub: [https://github.com/galaxy-cli/binsync](https://github.com/galaxy-cli/binsync)
 
 ---
 
